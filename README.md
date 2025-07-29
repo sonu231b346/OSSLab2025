@@ -12,9 +12,6 @@ Roll Number: 231b346
 
 Email: 231b346@juetguna.in
 
-<
-a=5
-b=10
-print("sum of two numbers", a+b)
->
-
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+print("Sum:" a + b)
