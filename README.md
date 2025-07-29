@@ -12,5 +12,9 @@ Roll Number: 231b346
 
 Email: 231b346@juetguna.in
 
-<Solution code to part F>
+<
+a=5
+b=10
+print("sum of two numbers", a+b)
+>
 
